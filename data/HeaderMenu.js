@@ -26,7 +26,7 @@ module.exports = [
   {
     id: 4,
     name: "Works",
-    routePath: "/works",
+    routePath: "/404",
     icon: <FaBlogger />,
   },
   {

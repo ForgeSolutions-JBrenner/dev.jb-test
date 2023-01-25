@@ -7,21 +7,21 @@ module.exports = [
       <>
         <p>
           <a
-            href="tel:+452 666 386"
+            href="tel:+12692259596"
             className="text-gray-lite text-lg dark:text-[#A6A6A6] "
           >
-            +452 666 386
+            +1 (269) 225-9596
           </a>
         </p>
 
-        <p>
+        {/* <p>
           <a
             href="tel:+654 764 878"
             className="text-gray-lite text-lg dark:text-[#A6A6A6] "
           >
             +654 764 878
           </a>
-        </p>
+        </p> */}
       </>
     ),
     bg: "#FCF4FF",
@@ -34,13 +34,13 @@ module.exports = [
       <>
         <p>
           <a
-            href="mailto:ibthemes21@gmail.com"
+            href="mailto:justin.t.brenner@outlook.com"
             className="text-gray-lite text-lg dark:text-[#A6A6A6] "
           >
-            ibthemes@gmail.com
+            justin.t.brenner@outlook.com
           </a>
         </p>
-
+        {/* 
         <p>
           <a
             href="mailto:xyz@abc.com"
@@ -48,7 +48,7 @@ module.exports = [
           >
             mailto:xyz@abc.com
           </a>
-        </p>
+        </p> */}
       </>
     ),
     bg: "#EEFBFF",
